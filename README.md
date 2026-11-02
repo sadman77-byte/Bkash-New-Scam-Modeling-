@@ -2,6 +2,29 @@
 
 # 🛡️ bKash & Android Malware Awareness & Analysis
 
+Incident :
+
+**English Translation & Summary of the Video:**
+
+In the video, a local official/representative (along with another person) is addressing a growing scam trend outside a police station or public area. They explain that they have repeatedly warned people through Facebook regarding mobile financial fraud (specifically involving bKash).
+
+**Key Points of What Happened:**
+
+* **The Modus Operandi:** Scammers target people who have money in their mobile financial service (bKash) accounts.
+
+
+* **Fake System Update:** Shortly after money arrives or is checked, a fake system update screen (`Installing system update...`) suddenly appears on the victim's phone.
+
+
+* **Device Hijacking:** The phone's screen gets locked or hijacked by the malware, preventing the user from interacting or pressing anything.
+
+
+* **Financial Loss:** Even though the phone becomes responsive again after a few hours, the hackers completely drain the money from the account in the meantime.
+
+
+* **Local Impact:** The speakers note that several victims (around 3 to 4 people daily) have been coming to the police station with this exact complaint, and they urge the public to remain extremely cautious when handling unknown pop-ups or system updates on their phones.
+
+||||
 Detailed discussion and guidelines on the cybersecurity risks, Android malware (Malware/RAT) attacks, overlay attacks, and preventive measures shown in the video[cite: 1].
 
 ---
